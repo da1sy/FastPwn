@@ -18,8 +18,14 @@
       - exp()
 ```
 
+### Dynamic presentation
+
+![](https://github.com/da1sy/da1sy/raw/master/exploit.gif)
+
+
 
 ## Awd-Exploit
+
 ```bash
 ❯ python Autopwn.py [exp_mod] 
 
@@ -36,3 +42,6 @@
           - data
 ```
 
+### Dynamic presentation
+
+![](https://github.com/da1sy/da1sy/raw/master/auto_pwn.gif)
