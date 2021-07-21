@@ -3,18 +3,18 @@
 
 
 ## exploit
+```bash
+❯ python exploit.py 
 
-> ❯ python exploit.py 
->
-> ❯ python exploit.py [exp_mod] 
->
-> ❯ python exploit.py [Ip] [Port]
->
-> ❯ python exploit.py [exp_mod]  [Ip] [Port]
+❯ python exploit.py [exp_mod] 
 
+❯ python exploit.py [Ip] [Port]
+
+❯ python exploit.py [exp_mod]  [Ip] [Port]
+```
 
 
 ## Awd-Exploit
-
-> ❯ python Autopwn.py [exp_mod] 
-
+```bash
+❯ python Autopwn.py [exp_mod] 
+```
