@@ -1,5 +1,4 @@
-# Pwn-Template
-
+# FastPwn
 
 
 ## exploit
